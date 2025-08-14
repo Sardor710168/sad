@@ -1,1 +1,0 @@
-# Bu mening README faylim
